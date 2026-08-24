@@ -1,0 +1,19 @@
+# File konfigurasi database
+.env
+config.php
+
+# Folder vendor (jika pakai Composer)
+/vendor/
+
+# File log dan sampah
+*.log
+*.tmp
+*.sql
+
+# Folder IDE
+.vscode/
+.idea/
+
+# File sistem operasi
+Thumbs.db
+.DS_Store
