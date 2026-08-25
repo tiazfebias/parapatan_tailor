@@ -5,6 +5,10 @@ config.php
 # Folder vendor (jika pakai Composer)
 /vendor/
 
+# Folder TCPDF (library besar, tidak perlu di GitHub)
+/TCPDF/
+/tcpdf/
+
 # File log dan sampah
 *.log
 *.tmp
