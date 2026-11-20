@@ -50,6 +50,3 @@ Sistem Informasi Manajemen **Parapatan Tailor** berbasis web untuk mengelola pes
 - 🗄️ MySQL / MariaDB
 - 🖥️ XAMPP / Laragon
 - 🌐 Browser modern (Chrome, Firefox, Edge)
-1. **Clone repo**
-   ```bash
-   git clone https://github.com/tiazfebias/parapatan_tailor.git
